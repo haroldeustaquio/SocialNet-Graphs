@@ -1,0 +1,101 @@
+id_interaccion,emisor,receptor,comentario,etiquetas,tipo_interaccion,timestamp
+1,Usuario_6,Usuario_10,Me parece dudoso,"Mundo, Deportes",compartir,2025-01-21 01:21:58
+2,Usuario_2,Usuario_3,Me parece dudoso,Política,compartir,2025-01-20 08:03:35
+3,Usuario_1,Usuario_7,¿Alguien más lo vio?,Política,respuesta,2025-01-28 17:21:42
+4,Usuario_6,Usuario_8,¿Alguien más lo vio?,"Política, Tecnología",retweet,2025-01-29 08:39:51
+5,Usuario_9,Usuario_2,Información errónea,Política,compartir,2025-02-04 03:43:20
+6,Usuario_5,Usuario_2,¿Alguien más lo vio?,"Deportes, Cultura",mención,2025-01-09 17:53:03
+7,Usuario_8,Usuario_4,Alerta de fake news,Mundo,retweet,2025-01-24 16:21:42
+8,Usuario_7,Usuario_5,Necesito más detalles,"Tecnología, Salud",retweet,2025-01-22 04:32:17
+9,Usuario_7,Usuario_5,Necesito más detalles,Salud,compartir,2025-01-28 07:53:48
+10,Usuario_4,Usuario_10,¿Alguien más lo vio?,Economía,mención,2025-01-11 19:26:10
+11,Usuario_8,Usuario_1,No lo creo...,"Tecnología, Salud",compartir,2025-01-17 17:27:51
+12,Usuario_9,Usuario_10,Muy convincente,Política,respuesta,2025-01-06 02:15:52
+13,Usuario_10,Usuario_7,Muy convincente,Mundo,compartir,2025-01-11 23:05:31
+14,Usuario_10,Usuario_2,Necesito más detalles,"Política, Deportes",respuesta,2025-01-15 22:09:10
+15,Usuario_7,Usuario_2,Esto es interesante,Política,mención,2025-02-03 18:57:29
+16,Usuario_3,Usuario_1,Muy convincente,Economía,respuesta,2025-01-16 17:27:42
+17,Usuario_9,Usuario_1,Me parece dudoso,"Economía, Mundo",respuesta,2025-01-06 14:51:31
+18,Usuario_7,Usuario_2,Muy convincente,"Economía, Cultura",compartir,2025-01-14 12:57:32
+19,Usuario_7,Usuario_5,Revisa esta fuente,Salud,retweet,2025-02-04 06:36:39
+20,Usuario_9,Usuario_10,Gran noticia!,Salud,compartir,2025-01-14 23:43:37
+21,Usuario_4,Usuario_6,Información errónea,Tecnología,respuesta,2025-01-25 01:56:56
+22,Usuario_5,Usuario_10,Esto es interesante,"Salud, Mundo",mención,2025-01-13 00:47:50
+23,Usuario_8,Usuario_7,Muy convincente,Política,compartir,2025-01-29 10:36:06
+24,Usuario_4,Usuario_8,Me parece dudoso,Tecnología,mención,2025-01-20 05:34:47
+25,Usuario_1,Usuario_8,Muy convincente,Economía,mención,2025-01-12 16:44:16
+26,Usuario_8,Usuario_4,Totalmente de acuerdo,"Economía, Política",respuesta,2025-01-16 05:28:17
+27,Usuario_10,Usuario_4,Información errónea,"Tecnología, Economía",mención,2025-01-26 08:40:14
+28,Usuario_2,Usuario_10,Me parece dudoso,"Mundo, Política",respuesta,2025-01-29 17:23:23
+29,Usuario_7,Usuario_9,Revisa esta fuente,"Cultura, Tecnología",compartir,2025-01-22 10:54:09
+30,Usuario_8,Usuario_10,Alerta de fake news,Tecnología,retweet,2025-02-04 10:13:15
+31,Usuario_10,Usuario_6,Muy convincente,"Mundo, Deportes",retweet,2025-01-20 13:30:53
+32,Usuario_3,Usuario_8,Muy convincente,Cultura,respuesta,2025-01-13 01:53:53
+33,Usuario_6,Usuario_1,Esto es interesante,"Tecnología, Política",retweet,2025-01-23 14:28:07
+34,Usuario_10,Usuario_9,¿Alguien más lo vio?,"Política, Mundo",retweet,2025-01-07 15:21:51
+35,Usuario_3,Usuario_4,Muy convincente,"Tecnología, Salud",mención,2025-02-02 22:57:29
+36,Usuario_1,Usuario_7,Gran noticia!,"Deportes, Tecnología",respuesta,2025-01-15 16:52:54
+37,Usuario_7,Usuario_1,Información errónea,Mundo,mención,2025-01-20 10:37:05
+38,Usuario_5,Usuario_9,Gran noticia!,"Salud, Deportes",mención,2025-01-20 10:27:39
+39,Usuario_4,Usuario_10,Información errónea,"Cultura, Economía",mención,2025-01-11 12:33:53
+40,Usuario_2,Usuario_3,Muy convincente,"Mundo, Deportes",mención,2025-01-17 11:56:34
+41,Usuario_4,Usuario_9,Muy convincente,"Salud, Cultura",compartir,2025-01-09 07:45:38
+42,Usuario_2,Usuario_1,Me parece dudoso,Cultura,respuesta,2025-02-03 12:35:48
+43,Usuario_1,Usuario_3,Muy convincente,"Deportes, Mundo",retweet,2025-01-25 00:20:34
+44,Usuario_6,Usuario_2,Totalmente de acuerdo,Salud,retweet,2025-02-04 03:33:38
+45,Usuario_10,Usuario_9,Necesito más detalles,Política,retweet,2025-01-14 08:15:07
+46,Usuario_4,Usuario_8,Me parece dudoso,Mundo,mención,2025-01-17 12:02:19
+47,Usuario_4,Usuario_3,¿Alguien más lo vio?,Deportes,mención,2025-01-14 03:14:34
+48,Usuario_9,Usuario_2,¿Alguien más lo vio?,Mundo,compartir,2025-01-10 02:53:56
+49,Usuario_2,Usuario_9,No lo creo...,"Política, Mundo",compartir,2025-02-04 03:16:54
+50,Usuario_6,Usuario_9,Revisa esta fuente,Deportes,respuesta,2025-01-19 09:21:23
+51,Usuario_7,Usuario_5,Necesito más detalles,"Salud, Mundo",respuesta,2025-01-18 04:07:42
+52,Usuario_2,Usuario_5,Muy convincente,Mundo,respuesta,2025-01-27 10:51:28
+53,Usuario_9,Usuario_5,No lo creo...,"Política, Economía",mención,2025-01-21 05:21:27
+54,Usuario_3,Usuario_10,Necesito más detalles,"Economía, Mundo",retweet,2025-01-14 09:56:46
+55,Usuario_7,Usuario_4,Muy convincente,Deportes,mención,2025-01-23 16:45:54
+56,Usuario_10,Usuario_9,Me parece dudoso,Cultura,retweet,2025-01-17 06:48:44
+57,Usuario_10,Usuario_4,Esto es interesante,"Economía, Mundo",retweet,2025-01-08 16:32:56
+58,Usuario_6,Usuario_8,Revisa esta fuente,"Política, Mundo",mención,2025-01-23 08:34:51
+59,Usuario_4,Usuario_6,Alerta de fake news,"Economía, Política",compartir,2025-01-27 07:30:20
+60,Usuario_10,Usuario_8,Muy convincente,Política,mención,2025-02-02 06:17:20
+61,Usuario_2,Usuario_10,Me parece dudoso,Tecnología,retweet,2025-02-02 15:56:50
+62,Usuario_9,Usuario_7,¿Alguien más lo vio?,Deportes,mención,2025-01-20 11:03:59
+63,Usuario_6,Usuario_10,Increíble,Tecnología,respuesta,2025-01-08 10:38:17
+64,Usuario_9,Usuario_8,No lo creo...,Deportes,compartir,2025-01-26 11:57:46
+65,Usuario_7,Usuario_9,Revisa esta fuente,Mundo,retweet,2025-01-14 21:03:58
+66,Usuario_8,Usuario_10,Revisa esta fuente,"Tecnología, Cultura",respuesta,2025-01-23 17:03:13
+67,Usuario_1,Usuario_9,Me parece dudoso,"Deportes, Cultura",respuesta,2025-01-07 21:02:04
+68,Usuario_9,Usuario_10,Gran noticia!,"Mundo, Salud",mención,2025-01-17 22:06:36
+69,Usuario_6,Usuario_4,Me parece dudoso,"Tecnología, Economía",respuesta,2025-02-01 15:55:21
+70,Usuario_5,Usuario_4,Alerta de fake news,Cultura,mención,2025-01-13 17:55:28
+71,Usuario_2,Usuario_7,Me parece dudoso,"Mundo, Deportes",retweet,2025-01-06 19:23:43
+72,Usuario_7,Usuario_9,Necesito más detalles,Deportes,respuesta,2025-01-07 22:40:56
+73,Usuario_5,Usuario_8,No lo creo...,Tecnología,compartir,2025-01-29 21:22:28
+74,Usuario_7,Usuario_5,Revisa esta fuente,Economía,respuesta,2025-01-12 13:29:01
+75,Usuario_6,Usuario_10,No lo creo...,Mundo,retweet,2025-02-03 20:55:13
+76,Usuario_7,Usuario_6,Alerta de fake news,Economía,mención,2025-01-29 11:52:31
+77,Usuario_4,Usuario_2,No lo creo...,Política,respuesta,2025-02-04 01:03:17
+78,Usuario_1,Usuario_7,Increíble,"Salud, Mundo",compartir,2025-01-21 19:14:18
+79,Usuario_1,Usuario_4,No lo creo...,Mundo,mención,2025-01-24 08:42:45
+80,Usuario_8,Usuario_6,Revisa esta fuente,Economía,compartir,2025-01-15 23:24:55
+81,Usuario_4,Usuario_9,Increíble,"Tecnología, Cultura",compartir,2025-01-29 14:36:18
+82,Usuario_10,Usuario_7,Me parece dudoso,"Política, Tecnología",compartir,2025-01-22 20:13:27
+83,Usuario_9,Usuario_2,Muy convincente,"Política, Deportes",mención,2025-01-21 13:47:31
+84,Usuario_7,Usuario_4,Totalmente de acuerdo,Mundo,mención,2025-02-02 02:24:56
+85,Usuario_6,Usuario_4,Esto es interesante,Tecnología,compartir,2025-01-17 18:09:24
+86,Usuario_5,Usuario_8,Muy convincente,Política,compartir,2025-01-16 00:56:20
+87,Usuario_3,Usuario_6,Totalmente de acuerdo,"Política, Economía",compartir,2025-01-13 03:06:33
+88,Usuario_9,Usuario_4,¿Alguien más lo vio?,"Deportes, Política",retweet,2025-01-09 18:04:56
+89,Usuario_6,Usuario_7,Me parece dudoso,Deportes,respuesta,2025-01-16 07:00:40
+90,Usuario_9,Usuario_4,Necesito más detalles,"Economía, Salud",respuesta,2025-01-31 10:44:54
+91,Usuario_8,Usuario_3,Me parece dudoso,"Economía, Tecnología",compartir,2025-01-22 10:21:47
+92,Usuario_1,Usuario_8,Totalmente de acuerdo,"Tecnología, Economía",respuesta,2025-01-08 18:45:19
+93,Usuario_8,Usuario_4,Muy convincente,"Salud, Economía",compartir,2025-01-30 13:04:52
+94,Usuario_1,Usuario_2,No lo creo...,"Economía, Deportes",mención,2025-01-10 16:22:10
+95,Usuario_6,Usuario_9,Totalmente de acuerdo,"Deportes, Tecnología",retweet,2025-01-12 05:22:21
+96,Usuario_7,Usuario_5,No lo creo...,"Mundo, Deportes",respuesta,2025-01-24 09:10:13
+97,Usuario_3,Usuario_1,¿Alguien más lo vio?,"Política, Salud",respuesta,2025-01-24 05:03:51
+98,Usuario_9,Usuario_10,Totalmente de acuerdo,Política,compartir,2025-01-15 05:25:15
+99,Usuario_6,Usuario_3,Increíble,"Cultura, Economía",mención,2025-01-16 16:03:48
+100,Usuario_4,Usuario_10,¿Alguien más lo vio?,"Cultura, Economía",respuesta,2025-01-16 06:48:10
