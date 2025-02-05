@@ -3,6 +3,7 @@
 ## Overview
 
 
+
 **Content**
 - [Synthetic Data](#synthetic-data)
 - [Context 1: Analysis of User Interactions in a Graph](#context-1-analysis-of-user-interactions-in-a-graph)
@@ -13,7 +14,7 @@
 
 
 <div align="center">
-    <img src="path/to/your/image.png" alt="Description of Image" />
+    <img src="https://st.depositphotos.com/3367263/59407/i/450/depositphotos_594077234-stock-photo-image-connections-hexagons-black-background.jpg" alt="Description of Image" />
 </div>
 
 
@@ -128,4 +129,5 @@ A bipartite graph is created that connects tweets with the hashtags they use. Ea
 
 ---
 
-## Mathematical Foundation 
+## Mathematical Foundation
+
