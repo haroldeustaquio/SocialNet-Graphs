@@ -14,7 +14,7 @@
 
 
 <div align="center">
-    <img src="https://st.depositphotos.com/3367263/59407/i/450/depositphotos_594077234-stock-photo-image-connections-hexagons-black-background.jpg" alt="Description of Image" />
+    <img src="https://definicion.de/wp-content/uploads/2009/11/red.png" alt="" width="1200" height="400" />
 </div>
 
 
