@@ -1,0 +1,11 @@
+tweet_id,creator,category,hashtags,tweet_date,url
+1000,User_8,Cultura,"#news, #trending",2024-12-22 01:45:29,
+1001,User_12,Salud,"#news, #trending, #tech",2024-12-24 19:59:37,
+1002,User_7,Cultura,"#world, #news, #tech",2025-02-01 06:08:52,
+1003,User_15,Tecnología,"#news, #trending, #tech",2025-01-10 14:53:49,http://example.com/info
+1004,User_12,Mundo,"#world, #news, #info, #tech",2025-01-18 10:57:40,http://example.com/article
+1005,User_14,Cultura,#trending,2025-01-15 17:25:28,http://example.com/article
+1006,User_3,Mundo,"#news, #trending, #tech",2024-12-18 15:39:45,
+1007,User_3,Tecnología,#info,2024-12-29 12:12:37,http://example.com/info
+1008,User_3,Cultura,"#tech, #world",2025-01-02 21:28:12,http://example.com/article
+1009,User_11,Mundo,"#world, #news",2024-12-20 17:28:59,
