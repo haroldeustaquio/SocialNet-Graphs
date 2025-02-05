@@ -36,7 +36,6 @@ This table contains information about the tweets published by users. Each tweet 
 | hashtags    | String of associated hashtags, separated by commas. Can contain 0, 1, or 2 random hashtags.   |
 | tweet_date  | Date and time of tweet publication in `YYYY-MM-DD HH:MM:SS` format (last 60 days).            |
 
----
 
 ### Users Table
 
@@ -131,4 +130,83 @@ A bipartite graph is created that connects tweets with the hashtags they use. Ea
 ---
 
 ## Mathematical Foundation
+
+Graphs are a central structure in discrete mathematics and computer science used to model relationships between pairs of objects. A graph $G = (V, E)$ is defined as:
+
+- **Vertices (V):** A set of nodes or points.
+- **Edges (E):** A set of connections (pairs of vertices) that represent relationships.
+
+### Types of Graphs
+
+- **Undirected Graphs:**  
+  - The edges do not have a direction.  
+  - An edge between $u$ and $v$ is represented as ${u, v}$.
+
+- **Directed Graphs (Digraphs):**  
+  - Each edge has a direction.  
+  - An edge from $u$ to $v$ is represented as $(u, v)$.  
+  - Useful in modeling asymmetrical relationships (e.g., follower relationships in social networks).
+
+- **Weighted Graphs:**  
+  - Edges carry a numerical weight.  
+  - Weights can represent distance, cost, or capacity.
+
+- **Bipartite Graphs:**  
+  - The vertex set is divided into two disjoint sets $U$ and $W$ such that every edge connects a vertex in $U$ to one in $W$.  
+  - Commonly used in modeling relationships between two different types of entities (e.g., tweets and hashtags).
+
+### Graph Representations
+
+- **Adjacency Matrix:**  
+  - A square matrix $A$ where $a_{ij}$ represents the presence (and sometimes the weight) of an edge between vertices $i$ and $j$.  
+  - Provides a straightforward way to check for edge existence, especially in dense graphs.
+
+- **Adjacency List:**  
+  - Each vertex maintains a list of adjacent vertices.  
+  - More memory-efficient for sparse graphs and provides faster iteration over neighbors.
+
+### Key Graph Metrics and Concepts
+
+- **Degree:**  
+  - **Undirected Graphs:** The degree of a vertex is the number of edges incident to it.  
+  - **Directed Graphs:**  
+    - **In-degree:** Number of incoming edges.  
+    - **Out-degree:** Number of outgoing edges.
+
+- **Path and Connectivity:**  
+  - A **path** is a sequence of vertices where each adjacent pair is connected by an edge.  
+  - **Connectivity** assesses whether there is a path between any two vertices in the graph.  
+  - **Connected Graph:** There is a path between every pair of vertices (for undirected graphs).
+
+- **Cycles:**  
+  - A cycle is a path that starts and ends at the same vertex with no other repetitions.  
+  - **Acyclic Graph:** A graph with no cycles, important in scenarios like dependency resolution.
+
+- **Centrality Measures:**  
+  - **Degree Centrality:** Based on the number of direct connections a vertex has.  
+  - **Betweenness Centrality:** Measures the frequency at which a vertex appears on the shortest paths between other vertices.  
+  - **Closeness Centrality:** Based on the average length of the shortest paths from a vertex to all others.  
+  - **Eigenvector Centrality:** Considers the influence of a vertex based on the centrality of its neighbors.
+
+- **Graph Traversal Algorithms:**  
+  - **Breadth-First Search (BFS):** Explores vertices in layers, useful for finding the shortest path in unweighted graphs.  
+  - **Depth-First Search (DFS):** Explores as far as possible along each branch before backtracking, useful for cycle detection and path finding.
+
+### Applications of Graph Theory
+
+- **Social Network Analysis:**  
+  - Modeling and analyzing relationships and interactions among individuals.
+  - Identifying influencers using centrality metrics.
+
+- **Computer Networks:**  
+  - Routing algorithms that optimize the flow of data across networks.
+  
+- **Biology:**  
+  - Analyzing biological networks such as neural networks and protein-protein interaction networks.
+
+- **Recommendation Systems:**  
+  - Using bipartite graphs to model relationships between users and products (or tweets and hashtags) to provide personalized recommendations.
+
+- **Optimization Problems:**  
+  - Problems like the traveling salesman or network flow, where graphs model the underlying structure of the problem.
 
