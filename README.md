@@ -1,7 +1,8 @@
-# NodePropagate
+# SocialNet Graphs
 
 ## Overview
 
+This repository generates synthetic social network data and applies graph theory to analyze user interactions and tweet-hashtag relationships. It includes synthetic tables for tweets, users, and interactions; a directed graph of user interactions that highlights key metrics such as total nodes, edges, in/out-degrees, and betweenness centrality; and an undirected bipartite graph linking tweets with hashtags to identify the most active tweets and popular hashtags. Underlying mathematical concepts from graph theory support the analyses.
 
 
 **Content**
