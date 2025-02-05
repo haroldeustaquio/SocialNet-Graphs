@@ -14,7 +14,7 @@
 
 
 <div align="center">
-    <img src="https://definicion.de/wp-content/uploads/2009/11/red.png" alt="" width="1200" height="400" />
+    <img src="https://www.grapheverywhere.com/wp-content/uploads/2019/07/pic004.jpg" alt="" width="800" height="300" />
 </div>
 
 
